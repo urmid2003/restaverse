@@ -1,0 +1,21 @@
+{
+  "replystore": [
+    {
+      
+    }
+  ],
+  "comments": [
+    { "id": 1, 
+      "name":"urmi",
+      "comment": "food was good", 
+      "emailid": "urmi.dangi@xaviers.edu.in"
+    },
+    { "id": 2, 
+      "name":"manisha",
+      "comment": "food was oakyish", 
+      "emailid": "manisha.dangi@xaviers.edu.in"}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
